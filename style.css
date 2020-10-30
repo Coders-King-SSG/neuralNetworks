@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:purple;
+    background: orange;
+}
+
+.heading {
+    width:80%;
+    font-size: 30px;
+    cursor: default;
+}
+
+.object_list {
+    color: #aee;
+    margin-top: 20px;
+}
+
+#camera {
+    width: 450px;
+    height:300px;
+    border:3px dotted #eee
+}
+
+b {
+    cursor: pointer;
+}
+
+#result_object_name, #result_object_accuracy {
+    color: #aee;
+}
